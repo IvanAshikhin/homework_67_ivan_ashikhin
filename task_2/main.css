@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    color: #fff;
+    font-size: 60px;
+}
+.card{
+    max-width: 450px;
+    padding: 20px;
+}
+h4{
+    color:darkblue;
+}
+body{
+    background: url(../task_2/image/MV5BYjU2MTE2NWMtY2NlYi00MDgzLTgxZTAtNDMzNGVmYmY3ZDNiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+}
