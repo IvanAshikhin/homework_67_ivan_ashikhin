@@ -5,10 +5,14 @@ h1{
     color: #fff;
     font-size: 60px;
 }
-.card{
+.card {
     max-width: 450px;
     padding: 20px;
 }
+.deta{
+    margin-top: 20px;
+}
+
 h4{
     color:darkblue;
 }
